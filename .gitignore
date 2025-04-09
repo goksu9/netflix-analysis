@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+Untitled.ipynb
+netflix_titles.csv
+__pycache__/
+*.pyc
+.DS_Store 
