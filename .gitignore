@@ -4,3 +4,4 @@ netflix_titles.csv
 __pycache__/
 *.pyc
 .DS_Store 
+download_dataset.py
